@@ -5,6 +5,6 @@ spring:
     name: tensquare-base #给当前项目起个名称
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.18.131:3306/tensquare_base?characterEncoding=utf-8
+    url: jdbc:mysql://192.168.199.161:3306/tensquare_base?characterEncoding=utf-8
     username: root
     password: root
